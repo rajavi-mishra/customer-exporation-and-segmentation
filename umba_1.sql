@@ -6,7 +6,7 @@ transactions: transaction.id, created, load_id, user_id, transaction_fee, t_type
 
 /*Process:
     1) Select columns 
-    2) Rename the appropriately
+    2) Rename them appropriately
     3) These columns should be selected them from a table that has been formed after joining 3 tables on common columns
     4) Make sure that the column value related conditions have been satisfied
     5) Order the table appropriately    
