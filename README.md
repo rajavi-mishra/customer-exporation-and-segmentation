@@ -6,4 +6,4 @@ This repository is for Umba's product challenge. This challenge had four questio
 3) umba-3.ipynb - **Data Analysis** using Google Colab
 4) umba-4.sql - **Product Challenge**
 
-
+Each file is accompanied with relevant comments regarding the process and explanation. 
